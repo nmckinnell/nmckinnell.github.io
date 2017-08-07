@@ -35,3 +35,11 @@
   width: 100%;
   padding: 0 ($padding-small * 2);
 }
+
+.profile-image {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: left;
+  margin: -.5em 2em 0 0;
+}
