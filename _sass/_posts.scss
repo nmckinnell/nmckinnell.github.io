@@ -1,0 +1,22 @@
+article, .post-teaser {
+  header {
+    margin-bottom: $padding-xsmall;
+
+    .meta {
+      color: $post-meta-text-color;
+      font-size: 0.9em;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+  }
+}
+
+article {
+  header {
+    text-align: center;
+
+    .title {
+      font-size: 2em;
+    }
+  }
+}
